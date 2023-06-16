@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+input{
+    cursor: pointer;
+}
+input:hover{
+    border-color: blueviolet;
+}
+
+h2{
+    font-family: 'Source Serif Pro';
+}
+
+h3{
+    font-family: 'Source Serif Pro';
+}
+
+#boton{
+    background-color: beige;
+    color: blueviolet;
+    padding: 10px;
+}
+
+#boton:hover{
+    font-style: italic;
+}
